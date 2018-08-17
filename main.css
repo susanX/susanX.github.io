@@ -1,6 +1,5 @@
 body {
-    
-    min-width: 635px;
+     min-width: 635px;
     font-family: 'Open Sans', sans-serif;
     font-weight: 200;
     background: #e6e6e6; 
@@ -19,26 +18,24 @@ p#demo {
   margin: 0;
   padding: 0 0 0 11.2em;
 }
+
 li {
     display: block-inline;
-    list-style: none; 
-      
+    list-style: none;       
 }
 
 li.git{
   margin: 50px 0 0;
   padding: 20px 0;
 }
-nav.links a{ 
-  
+
+nav.links a{   
   list-style: none; 
   padding: 0; 
   margin:0; 
 }
 
-a{ 
-  
-}
+a{}
 
 section.boxes{
 /*   background:yellow; */
@@ -49,16 +46,13 @@ div.content {
     padding: 5em;
 /*     border-bottom: 1px solid black; */
     background-color: 'light gray';
-/*   background-color: yellow; */
-  
+/*   background-color: yellow; */  
 }
-
 
 header {
 /*   position:absolute;
   height:50px; */
   width: relative;
- 
   padding-bottom: 20px;
 }
 
@@ -69,7 +63,7 @@ header img {
   display: inline;
   float: left;
   overflow: hidden; */
-      margin: 1em 1em 0em 6em;
+  margin: 1em 1em 0em 6em;
 }
 
 header h1 {
@@ -80,6 +74,7 @@ header h1 {
   text-indent 300px;
   color: rgba(0,0,0,54);
 /*   background-image:url "https://www.dropbox.com/s/wotoutmcjvu9gt2/m.jpeg?raw=1"; */
+    
 }
 header h2{
   float: left;
@@ -89,22 +84,15 @@ header h2{
   font-style: italic;
 }
 
-
-
-
-
-
 h1, h2, h3, h4, h5, h6, p {
 /*    color: #222;*/
     font-weight: 400;
 /*     line-height: 1.3; */
       font-family: font-family: 'Open Sans', sans-serif;
-
 }
 
 .blank p{
-  width: 31em;
-  
+  width: 31em; 
 }
 
 /* h2 {
@@ -116,10 +104,11 @@ a {
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.10);
 }
 
-  header.h1{
-    font-size: 5em;
-    width: 32em;
-  } 
+header.h1{
+  font-size: 5em;
+  width: 32em;
+} 
+
 /*--------------------------------------------------------------
 Boxes
 --------------------------------------------------------------*/
@@ -130,20 +119,22 @@ Boxes
 
 .box a{
 /*     padding: 1em; */
-    text-decoration: none;
-    color: black;
-/*     background: #f8fbfe; */
+  text-decoration: none;
+  color: black;
+  background: #f8fbfe;
   padding-bottom: 3em;
-      padding: 1em;
+  padding: 1em;
 }
+
 a:hover{
-/*   background:pink; */
   .grow {transistion: all .2s ease-in-out; }
   .grow {transform: scale(1:2); }
 /*    width: calc+5%;
   height: calc+5%; */
 }
+
 /* /*650----------------------------------------------*/
+
 @media screen and (min-width: 650px) {
     .boxes {
         display: flex;
@@ -158,9 +149,9 @@ a:hover{
     .box {
         display: flex;
         width: calc(50% - .5em);
-
     }
 } 
+
 /*900 3 cols--------------------------------------------*/
 @media screen and (min-width: 900px) {
     .boxes {
@@ -177,7 +168,6 @@ a:hover{
     }
 }
 
-/*----------------------------------------------*/
 /*MASTHEAD----------------------------------------------*/
 
 header.masthead{
@@ -186,10 +176,8 @@ header.masthead{
   float: left;
 }
 .site-title{
-  
-  
-  
 }
+
 /* .masthead{
   background: hsl(0, 0%, 90%){  
 }  */

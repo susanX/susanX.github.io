@@ -24,6 +24,10 @@ li {
     list-style: none;       
 }
 
+li a {
+     box-shadow: none;
+}
+
 li.git{
   margin: 50px 0 0;
   padding: 20px 0;

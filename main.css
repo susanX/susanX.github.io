@@ -117,10 +117,14 @@ Boxes
     margin: 0 0 1em;
 }
 
+article.box{
+  background: #f8fbfe;
+}
+
 .box a{
 /*     padding: 1em; */
   text-decoration: none;
-  color: black;
+  color: black;   
   background: #f8fbfe;
   padding-bottom: 3em;
   padding: 1em;

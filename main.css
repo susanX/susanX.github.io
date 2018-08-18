@@ -10,7 +10,7 @@ body {
     padding: 1em 0 4em 0;
 }
 
-.clearfix{
+.clearfix {
   overflow: auto;
 }
 
@@ -136,8 +136,8 @@ article.box{
 }
 
 a:hover{
-  .grow {transistion: all .2s ease-in-out; }
-  .grow {transform: scale(1:2); }
+/*   .grow {transistion: all .2s ease-in-out; }
+  .grow {transform: scale(1:2); } */
 /*    width: calc+5%;
   height: calc+5%; */
 }
@@ -218,7 +218,7 @@ justify-content: space-between;
   }
   
   article.box a { 
-    width: 300px;
+/*     width: 300px; */
     background-color: white;
   }
 }  */

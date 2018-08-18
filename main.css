@@ -144,7 +144,7 @@ a:hover{
 
 /* /*650----------------------------------------------*/
 
-@media screen and (min-width: 650px) {
+/* @media screen and (min-width: 650px) {
     .boxes {
         display: flex;
         flex-wrap: wrap;
@@ -160,7 +160,7 @@ a:hover{
         width: calc(50% - .5em);
     }
 } 
-
+ */
 /*900 3 cols--------------------------------------------*/
 @media screen and (min-width: 900px) {
     .boxes {

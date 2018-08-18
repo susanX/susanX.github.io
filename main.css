@@ -205,23 +205,25 @@ header.masthead{
 /*--150px- one col phone-------------------------------------------*/
 @media screen and (min-width: 400px) {
   
-  .masthead {
-display: flex; 
-justify-content: space-between; 
-    align-items: left;
-    height: 50em;
+.masthead {
+     display: flex; 
+     justify-content: space-between; 
+     align-items: left;
+     height: 50em;
 /*     backgrouond: yellow;  */
   }
 
-  article.box img {
+article.box img {
     width: 100%;
   }
   
-  article.box a { 
-/*     width: 300px; */
+article.box a { 
+    width: 300px;
     background-color: white;
   }
-}  */
+     
+}  
+
 
 .masterhead img {
 /*   display: block;  */

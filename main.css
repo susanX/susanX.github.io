@@ -24,6 +24,9 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+em {
+  font-style: italic;
+}
 
 
 body {

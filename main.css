@@ -71,11 +71,6 @@ header h2{
   clear: both;
 }
 
-p#demo {
-  margin: 0;
-  padding: 0 0 0 11.2em;
-}
-
 nav.links ul {
   display: block-line;
 }
@@ -103,10 +98,9 @@ h2.box-title{
   font-weight:600;
 }
 
-a {
+/* a {
     color: #0083e8;
- 
-}
+} */
 
 /* Boxes-------------------------------------------*/
 

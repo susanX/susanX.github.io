@@ -203,7 +203,7 @@ header.masthead{
 
 
 /*--150px- one col phone-------------------------------------------*/
-@media screen and (min-width: 400px) {
+/* @media screen and (min-width: 400px) {
   
 .masthead {
      display: flex; 
@@ -211,7 +211,7 @@ header.masthead{
      align-items: left;
      height: 130em;
 /*     backgrouond: yellow;  */
-  }
+/*   }
 
 article.box img {
     width: 100%;
@@ -222,7 +222,7 @@ article.box a {
     background-color: white;
   }
      
-}  
+}   */ 
 
 
 .masterhead img {

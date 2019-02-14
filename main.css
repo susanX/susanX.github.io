@@ -157,4 +157,9 @@ h2.box-title{
     .double {
         flex: none;
     }
+	
+   .links {
+	display: flex;
+	flex-wrap: wrap;
+   }   
 }

@@ -139,8 +139,10 @@ h2.box-title{
     .box {
         display: flex;
         width: calc(50% - .5em);
-
     }
+	
+    .calc {
+       width: 28rem;
 } 
 
 /*900----------------------------------------------*/

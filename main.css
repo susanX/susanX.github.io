@@ -85,14 +85,12 @@ li.git img {
 nav.links ul li{   
   list-style: none;
 }
-
-img.center {
+ img.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 10%;
- } 
-
+ }
 /* header-end--------------- */
 
 section.boxes{
@@ -144,8 +142,7 @@ h2.box-title{
     }
 	 
     .calc {
-        width: 54px; 
-    }
+       width: 28rem;
 }
 
 /*900----------------------------------------------*/

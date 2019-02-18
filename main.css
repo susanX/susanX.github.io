@@ -81,7 +81,7 @@ header h2{
 }
 
 nav.links ul {
-  display: block-line;
+  display: block;
 }
 
 li.git img {
@@ -112,10 +112,6 @@ h2.box-title{
   font-size:1.3em;
   font-weight:600;
 }
-
-/* a {
-    color: #0083e8;
-} */
 
 /* Boxes-------------------------------------------*/
 
@@ -148,11 +144,6 @@ h2.box-title{
         width: calc(50% - .5em);
     }
 	 
-/*     .git calc {
-    padding: 8px;
-    margin-top: 40px;
-    width: 60px;
-    } */
 }
 
 /*900----------------------------------------------*/
@@ -175,9 +166,4 @@ h2.box-title{
 	flex-wrap: wrap;
    } 
    
-/*    .calc {
-    //padding: 8px;
-    margin-top: 40px;
-    width: 60px;
-    } */
 }

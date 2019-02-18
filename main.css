@@ -100,7 +100,7 @@ img.center {
 
 ul.downarrow {
   display:block;
-  list-style: none;
+  list-style-type: none;
 }
 
 /* header-end--------------- */

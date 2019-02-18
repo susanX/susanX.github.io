@@ -91,6 +91,13 @@ nav.links ul li{
   margin-right: auto;
   width: 10%;
  }
+
+.calc {
+  /* width: 54px; */
+  padding: 8px;
+  margin-top: 40px;
+  width: 20rem;
+ }
 /* header-end--------------- */
 
 section.boxes{

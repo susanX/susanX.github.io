@@ -42,8 +42,7 @@ body {
     box-shadow:  none;
 }
 
- .calc {
-    /* width: 54px; */
+ .git calc {
     padding: 8px;
     margin-top: 40px;
     width: 60px;
@@ -99,12 +98,6 @@ nav.links ul li{
   width: 10%;
  }
 
-.git calc {
-  /* width: 54px; */
-  padding: 8px;
-  margin-top: 40px;
-  width: 60px;
- }
 /* header-end--------------- */
 
 section.boxes{
@@ -155,12 +148,11 @@ h2.box-title{
         width: calc(50% - .5em);
     }
 	 
-    .git calc {
-    /* width: 54px; */
+/*     .git calc {
     padding: 8px;
     margin-top: 40px;
     width: 60px;
-    }
+    } */
 }
 
 /*900----------------------------------------------*/

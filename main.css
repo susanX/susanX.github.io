@@ -183,10 +183,9 @@ h2.box-title{
 	flex-wrap: wrap;
    } 
    
-	.calc {
-    /* width: 54px; */
-    padding: 8px;
+/*    .calc {
+    //padding: 8px;
     margin-top: 40px;
     width: 60px;
-    }
+    } */
 }

@@ -1,0 +1,130 @@
+{
+  "rss": {
+    "-version": "2.0",
+    "parsererror": {
+      "-style": "display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black",
+      "h3": [
+        "This page contains the following errors:",
+        "Below is a rendering of the page up to the first error."
+      ],
+      "div": {
+        "-style": "font-family:monospace;font-size:12px",
+        "#text": "error on line 62 at column 543: xmlParseEntityRef: no name
+"
+      }
+    },
+    "channel": {
+      "title": "
+ClinicalTrials.gov: Prostate Cancer | United Kingdom | Studies with Male Participants | Last update posted in the last 14 days
+",
+      "link": "
+https://clinicaltrials.gov/ct2/results/rss.xml?cond=Prostate+Cancer&cntry=GB&gndr=Male&lupd_s=08%2F27%2F2019&lupd_d=14&count=10000
+",
+      "description": "
+Studies found on ClinicalTrials.gov by a search of: Prostate Cancer | United Kingdom | Studies with Male Participants | Last update posted in the last 14 days
+",
+      "language": "en-us",
+      "pubDate": "Mon, 09 Sep 2019 11:02:07 EDT",
+      "ttl": "1440",
+      "item": [
+        {
+          "title": "
+The BARCODE 1 Study (Full Study): The Use of Genetic Profiling to Guide Prostate Cancer Targeted Screening.
+",
+          "link": "
+https://clinicaltrials.gov/ct2/show/NCT03857477?cond=Prostate+Cancer&cntry=GB&gndr=Male&lupd_s=08%2F27%2F2019&lupd_d=14
+",
+          "description": {
+            "b": [
+              "Condition",
+              "Interventions",
+              "Sponsor",
+              "Recruiting"
+            ],
+            "#text": [
+              ":   Prostate Cancer",
+              ":   Genetic: Genetic SNP profiling;   Other: Prostate cancer screening;   Procedure: MRI Scan;   Procedure: Prostate biopsy",
+              ":   Institute of Cancer Research, United Kingdom"
+            ]
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "NCT03857477"
+          },
+          "pubDate": "Thu, 28 Feb 2019 12:00:00 EST"
+        },
+        {
+          "title": "
+UK Genetic Prostate Cancer Study: Epidemiology and Molecular Genetics Studies
+",
+          "link": "
+https://clinicaltrials.gov/ct2/show/NCT01737242?cond=Prostate+Cancer&cntry=GB&gndr=Male&lupd_s=08%2F27%2F2019&lupd_d=14
+",
+          "description": {
+            "b": [
+              "Condition",
+              "Intervention",
+              "Sponsors",
+              "Recruiting"
+            ],
+            "#text": [
+              ":   Prostate Cancer",
+              ":   ",
+              ":   Institute of Cancer Research, United Kingdom;   Cancer Research UK;   Royal Marsden NHS Foundation Trust"
+            ]
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "NCT01737242"
+          },
+          "pubDate": "Thu, 29 Nov 2012 12:00:00 EST"
+        },
+        {
+          "title": "
+Analysing Outcomes After Prostate Cancer Diagnosis and Treatment in Carriers of Rare Germline Mutations
+",
+          "link": "
+https://clinicaltrials.gov/ct2/show/NCT02705846?cond=Prostate+Cancer&cntry=GB&gndr=Male&lupd_s=08%2F27%2F2019&lupd_d=14
+",
+          "description": {
+            "b": [
+              "Condition",
+              "Intervention",
+              "Sponsor",
+              "Recruiting"
+            ],
+            "#text": [
+              ":   Prostate Cancer",
+              ":   ",
+              ":   Institute of Cancer Research, United Kingdom"
+            ]
+          },
+          "guid": {
+            "-isPermaLink": "false",
+            "#text": "NCT02705846"
+          },
+          "pubDate": "Fri, 11 Mar 2016 12:00:00 EST"
+        },
+        {
+          "title": "
+The BARCODE 2 Study - The Use of Genetic Profiling to Guide Prostate Cancer Treatment
+",
+          "link": "
+https://clinicaltrials.gov/ct2/show/NCT02955082?cond=Prostate+Cancer&cntry=GB&gndr=Male&lupd_s=08%2F27%2F2019&lupd_d=14
+",
+          "description": {
+            "b": [
+              "Condition",
+              "Intervention",
+              "Sponsors"
+            ],
+            "#text": [
+              ":   Hormone Refractory Prostate Cancer",
+              ":   Drug: Carboplatin"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

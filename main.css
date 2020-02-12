@@ -151,5 +151,5 @@ footer{
     display: grid;
     padding: 0;
     margin: 0;
-    grid-template-columns: 124px 132px 35px minmax(20px, 1fr);
+    grid-template-columns: 124px 130px 35px minmax(20px, 1fr);
 }
